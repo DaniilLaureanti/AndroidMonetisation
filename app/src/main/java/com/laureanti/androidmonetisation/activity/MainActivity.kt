@@ -1,8 +1,9 @@
-package com.laureanti.androidmonetisation
+package com.laureanti.androidmonetisation.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.laureanti.androidmonetisation.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
